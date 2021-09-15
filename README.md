@@ -1,7 +1,11 @@
-# test-app
+# test-vue
 
 ## Project setup
 ```
+- install node.js
+- install yarn
+- go to repository folder
+
 yarn install
 ```
 
@@ -15,13 +19,4 @@ yarn jest
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
 
